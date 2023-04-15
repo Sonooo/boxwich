@@ -76,6 +76,8 @@ h6 {
 }
 
 #header .logo {
+  border-radius: 10px;
+  background: #a5a5a561;
   font-size: 28px;
   margin: 0;
   padding: 0;
