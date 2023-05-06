@@ -453,7 +453,7 @@ section {
 
 .section-title p {
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 20px;
   color: black;
 }
 
@@ -1068,7 +1068,7 @@ section {
   display: block;
   font-size: 13px;
   font-weight: 400;
-  color: #aaaaaa;
+  color: #000;
 }
 
 .team .member .member-info p {
