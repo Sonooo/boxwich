@@ -1476,7 +1476,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #777777;
+  color: #000;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
