@@ -77,7 +77,6 @@ h6 {
 
 #header .logo {
   border-radius: 10px;
-  background: #a5a5a5d9;
   font-size: 28px;
   margin: 0;
   padding: 0;
@@ -424,7 +423,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f7f8fa;
+  background-color: #FFFFFD;
 }
 
 .section-title {
@@ -455,7 +454,7 @@ section {
 .section-title p {
   margin-bottom: 0;
   font-size: 14px;
-  color: #aab3c7;
+  color: black;
 }
 
 /*--------------------------------------------------------------
@@ -641,8 +640,9 @@ section {
 }
 
 .services .icon-box:hover {
+  border-radius: 10%;
   border-color: #fff;
-  box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 0 40px 0 #22292154;
 }
 
 .services .iconbox-blue i {
