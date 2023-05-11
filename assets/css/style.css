@@ -1639,3 +1639,29 @@ section {
 .table-rwd tr:nth-child(2) td:first-child {
   box-shadow: 0 -2.7em 0 -6px #1a8cff, -6px -2.7em 0 -6px #1a8cff;
 }
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 80px;
+  color: green;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 80px;
+  color: green;
+}
+.w-100 {
+  height: 450px;
+  width: 100%!important;
+}
